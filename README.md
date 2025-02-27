@@ -1,4 +1,2 @@
 # scm-practical
-task 1.1
-Switch scm practical file
-SCM practical file 
+<p>This is my practical repo for my scm subject</p>
